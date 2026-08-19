@@ -8,7 +8,7 @@ Esse projeto nasceu de um trabalho em equipe na faculdade e foi uma experiência
 
 Sendo bem transparente sobre o nosso processo: como estamos na fase de aprendizado, usamos ferramentas de IA (como o ChatGPT e Gemini) para nos ajudar com dúvidas chatas de sintaxe e formatar blocos de código mais rápido. Porém, entender a lógica, desenhar a arquitetura do CRUD e resolver os bugs de fluxo foi discutida e feita pelo grupo.
   
- * **O que o código faz na prática?**
+ ** **O que o código faz na prática?**
 
 * **Cadastro:** Recebe dados completos (Nome, CPF, Data de Nascimento, E-mail, etc.).
 * **Validações:** Usa regex para não deixar passar CPF ou datas em formatos errados e bloqueia CPFs duplicados.
