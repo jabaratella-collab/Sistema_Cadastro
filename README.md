@@ -10,12 +10,12 @@ Sendo bem transparente sobre o nosso processo: como estamos na fase de aprendiza
  
 * **O que o código faz na prática?**
 
- * - **Cadastro:** Recebe dados completos (Nome, CPF, Data de Nascimento, E-mail, etc.).
- * -**Validações:** Usa regex para não deixar passar CPF ou datas em formatos errados e bloqueia CPFs duplicados.
- * -**Busca e Atualização:** Dá para achar o usuário pelo CPF e atualizar só o que precisa, mantendo o resto.
- * -**Salvamento local:** Salva tudo no arquivo `banco_dados.json`.
+  - **Cadastro:** Recebe dados completos (Nome, CPF, Data de Nascimento, E-mail, etc.).
+  - **Validações:** Usa regex para não deixar passar CPF ou datas em formatos errados e bloqueia CPFs duplicados.
+  - **Busca e Atualização:** Dá para achar o usuário pelo CPF e atualizar só o que precisa, mantendo o resto.
+  - **Salvamento local:** Salva tudo no arquivo `banco_dados.json`.
 
 * **O que usei para construir**
 
- * - Python 3.10+ (Aproveitando a estrutura match/case pros menus)
- * - Bibliotecas Nativas: `json`, `re`, `os`
+  - Python 3.10+ (Aproveitando a estrutura match/case pros menus)
+  - Bibliotecas Nativas: `json`, `re`, `os`
