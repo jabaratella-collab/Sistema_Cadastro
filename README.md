@@ -17,5 +17,5 @@ Sendo bem transparente sobre o nosso processo: como estamos na fase de aprendiza
 
   O que usei para construir
 
-Python 3.10+ (Aproveitando a estrutura match/case pros menus)
-Bibliotecas Nativas: `json`, `re`, `os`
+* Python 3.10+ (Aproveitando a estrutura match/case pros menus)
+* Bibliotecas Nativas: `json`, `re`, `os`
